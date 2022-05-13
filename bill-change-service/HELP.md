@@ -19,6 +19,9 @@ Create a Spring Boot service that exposes a REST API that allows a user to reque
 * Allow for the user to request for the most amount of coins to make change
 
 ### Solution Overview
+* Using Spring Boot v2.6.7
+* Created 4 REST APIs 
+* Spring Boot Test cases for Controller
 * Spring Boot application is running on port 8081 (by default)
 * APIs Documentation:
 
@@ -35,7 +38,3 @@ Create a Spring Boot service that exposes a REST API that allows a user to reque
     "count": "100"
     }
     ]
-
-
-### Reference
-* [GeeksForGeek](https://www.geeksforgeeks.org/)
